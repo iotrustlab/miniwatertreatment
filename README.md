@@ -1,8 +1,8 @@
-# [Introduction]{.underline}
+# OpenPLC Mini Water Treatment Testbed
 
 The MiniWater, a smaller representation of the SWaT system, includes the
 first two to three processes of the
-[[SWaT]{.underline}](https://itrust.sutd.edu.sg/itrust-labs-home/itrust-labs_swat/).
+[SWaT](https://itrust.sutd.edu.sg/itrust-labs-home/itrust-labs_swat/).
 To provide a cost-effective and open-source alternative to industrial
 PLCs, MiniWater integrates Raspberry Pi 4s using OpenPLC. This approach
 allows for a low cost mimic of Operation Technology (OT) components such
@@ -19,12 +19,12 @@ height="3.5610159667541557in"}
 
 Figure 2: Represents the MiniWater testbed
 
-# **[Hardware Setup]{.underline}**
+# **Hardware Setup**
 
 #### Components:
 
--   [[Raspberry Pi 4
-    B]{.underline}](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/)
+-   [Raspberry Pi 4
+    B](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/)
 
 <!-- -->
 
@@ -172,7 +172,7 @@ Figure 2: Represents the MiniWater testbed
 
     -   GPIO 2 (SDA) & GPIO 3 (SCL)
 
-# **[Software]{.underline}**
+# **Software**
 
 ## [OpenPLC]{.underline}
 
